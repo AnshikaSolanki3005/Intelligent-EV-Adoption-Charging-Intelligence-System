@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+prophet
+xgboost
+langchain
+langchain-openai
+openai
+evidently
+mlflow
+fastapi
+uvicorn
+pyyaml
+python-dotenv
