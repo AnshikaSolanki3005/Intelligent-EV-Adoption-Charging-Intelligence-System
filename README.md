@@ -1,2 +1,2 @@
 # EV Adoption & Charging Demand Decision Intelligence System
-Designed an intelligent spatio-temporal EV analytics system that forecasts charging demand, analyzes regional EV adoption, and provides decision-ready insights for infrastructure planning and policy design.
+“This project focuses on analyzing EV adoption and charging behavior to support infrastructure and policy decisions using machine learning–driven insights.”
