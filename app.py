@@ -1,0 +1,5 @@
+# app.py  (new file in root)
+from gradio_dashboard import dashboard
+
+if __name__ == "__main__":
+    dashboard.launch()
